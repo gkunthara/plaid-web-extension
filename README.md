@@ -1,8 +1,8 @@
 ## Financial Web Extensions
 
-Web extensions are really cool and are often underrated in what they can do. With [Plaid](https://plaid.com/), web extensions can be taken to a whole new level!
+Web extensions are really cool and often underrated in what they can do. With [Plaid](https://plaid.com/), web extensions can be taken to a whole new level!
 
-This one is just a simple web extension that allows users to connect a financial institution and showcases real-time balances for accounts associated with the institution.
+This one is just a simple web extension that allows users to connect a financial institution and show real-time balances for accounts associated with the institution.
 
 
 ![Plaid Balance Demo](demo/plaid-demo.gif)
@@ -11,7 +11,7 @@ This one is just a simple web extension that allows users to connect a financial
 
 Plaid is putting Personal in "Personal Finance", allowing developers to build a slew of hyper personalized applications.
 
-Feel free to clone this repo and extend the current functionality. Some potential extensions that would be cool are:
+Feel free to clone this repo and extend the current functionality. Some potential extensions that would be useful are:
 
 * An app that analyzes your income, spending history, and debt to determine if you can afford to buy/rent a home while browsing Zillow.
 * An app that automatically writes your investment data to a Google Sheet

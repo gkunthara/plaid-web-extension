@@ -1,25 +1,10 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "short_name": "Plaid App",
+  "name": "Basic Plaid Chrome Extension",
+  "version": "1.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html"
+},
+  "content_security_policy": "object-src 'self'; script-src 'self' https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js https://cdn.plaid.com/link/v2/stable/link-initialize.js https://unpkg.com/universal-cookie@3/umd/universalCookie.min.js 'sha256-3D60h5Iasl8EKlABdcV1iX2EJlXT8XdCNOQ1mpUcUAU=';"
 }

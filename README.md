@@ -11,7 +11,7 @@ This one is just a simple web extension that allows users to connect a financial
 
 Plaid is putting Personal in "Personal Finance", allowing developers to build a slew of hyper personalized applications.
 
-Feel free to clone this repo and extend the current functionality. Some potential extensions that would be useful are:
+Although plaid offers a [full end-to-end example application](https://github.com/plaid/pattern), it's honestly quite confusing and requires a decent amount of setup. So feel free to clone this repo and extend the current functionality. Some potential extensions that would be useful are:
 
 * An app that analyzes your income, spending history, and debt to determine if you can afford to buy/rent a home while browsing Zillow.
 * An app that automatically writes your investment data to a Google Sheet
